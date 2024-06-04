@@ -5,7 +5,7 @@
 
 This aim to develop a predictive model for mortality in young patients with gastric cancer. Using machine learning techniques, we preprocess the data, extract important features, and build a model to predict outcomes.
 
-
+![Figure1](https://github.com/KwangSun-Ryu/gastric_cancer_mortality/assets/122508289/22d56a19-9356-47ac-9f5a-c13ecdd81cd1)
 
 
 ### Table of Contents
